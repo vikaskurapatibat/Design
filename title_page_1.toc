@@ -1,0 +1,80 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Mission Statement}{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}Mission Statement}{2}{section.2.1}
+\contentsline {section}{\numberline {2.2}Customer}{3}{section.2.2}
+\contentsline {section}{\numberline {2.3}Critical Knowledge}{3}{section.2.3}
+\contentsline {chapter}{\numberline {3}Conceptual Design}{4}{chapter.3}
+\contentsline {section}{\numberline {3.1}Design 1}{4}{section.3.1}
+\contentsline {section}{\numberline {3.2}Design 2}{5}{section.3.2}
+\contentsline {section}{\numberline {3.3}Comparison}{5}{section.3.3}
+\contentsline {chapter}{\numberline {4}Subsystems}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}Subsystems to be Designed}{7}{section.4.1}
+\contentsline {section}{\numberline {4.2}Subsystems to be bought}{7}{section.4.2}
+\contentsline {chapter}{\numberline {5}Design Methodology}{9}{chapter.5}
+\contentsline {chapter}{\numberline {6}Flight Profile}{11}{chapter.6}
+\contentsline {chapter}{\numberline {7}Design Variables}{12}{chapter.7}
+\contentsline {chapter}{\numberline {8}First Iteration}{13}{chapter.8}
+\contentsline {section}{\numberline {8.1}CAD Model}{13}{section.8.1}
+\contentsline {section}{\numberline {8.2}Weight Estimation}{14}{section.8.2}
+\contentsline {section}{\numberline {8.3}Engine Analysis}{15}{section.8.3}
+\contentsline {section}{\numberline {8.4}Point Performance}{16}{section.8.4}
+\contentsline {subsection}{\numberline {8.4.1}VTOF}{16}{subsection.8.4.1}
+\contentsline {subsection}{\numberline {8.4.2}Cruise}{16}{subsection.8.4.2}
+\contentsline {subsubsection}{Hover}{16}{section*.10}
+\contentsline {section}{\numberline {8.5}Aerodynamic Analysis}{16}{section.8.5}
+\contentsline {section}{\numberline {8.6}Trim Analysis}{17}{section.8.6}
+\contentsline {section}{\numberline {8.7}Stability Analysis}{18}{section.8.7}
+\contentsline {subsection}{\numberline {8.7.1}Roll Mode}{19}{subsection.8.7.1}
+\contentsline {subsection}{\numberline {8.7.2}Phugoid Mode}{19}{subsection.8.7.2}
+\contentsline {subsection}{\numberline {8.7.3}Dutch Roll Mode}{20}{subsection.8.7.3}
+\contentsline {subsection}{\numberline {8.7.4}Spiral Mode}{20}{subsection.8.7.4}
+\contentsline {subsection}{\numberline {8.7.5}Short Period Mode}{21}{subsection.8.7.5}
+\contentsline {subsection}{\numberline {8.7.6}Conclusions from Aerodynamic Analysis}{21}{subsection.8.7.6}
+\contentsline {section}{\numberline {8.8}Structural Analysis}{21}{section.8.8}
+\contentsline {section}{\numberline {8.9}Objective Function}{22}{section.8.9}
+\contentsline {section}{\numberline {8.10}Modifications}{22}{section.8.10}
+\contentsline {chapter}{\numberline {9}Second Iteration}{23}{chapter.9}
+\contentsline {section}{\numberline {9.1}CAD Model}{23}{section.9.1}
+\contentsline {section}{\numberline {9.2}Weight Estimation}{23}{section.9.2}
+\contentsline {section}{\numberline {9.3}Engine Analysis}{24}{section.9.3}
+\contentsline {section}{\numberline {9.4}Point Performance}{25}{section.9.4}
+\contentsline {subsection}{\numberline {9.4.1}VTOF}{25}{subsection.9.4.1}
+\contentsline {subsection}{\numberline {9.4.2}Cruise}{25}{subsection.9.4.2}
+\contentsline {subsubsection}{Hover}{25}{section*.22}
+\contentsline {section}{\numberline {9.5}Aerodynamic Analysis}{25}{section.9.5}
+\contentsline {subsection}{\numberline {9.5.1}Selection of Airfoil}{25}{subsection.9.5.1}
+\contentsline {subsection}{\numberline {9.5.2}Aerodynamic Plots}{26}{subsection.9.5.2}
+\contentsline {section}{\numberline {9.6}Trim Analysis}{27}{section.9.6}
+\contentsline {section}{\numberline {9.7}Stability Analysis}{28}{section.9.7}
+\contentsline {subsection}{\numberline {9.7.1}Roll Mode}{28}{subsection.9.7.1}
+\contentsline {subsection}{\numberline {9.7.2}Phugoid Mode}{29}{subsection.9.7.2}
+\contentsline {subsection}{\numberline {9.7.3}Dutch Roll Mode}{29}{subsection.9.7.3}
+\contentsline {subsection}{\numberline {9.7.4}Spiral Mode}{30}{subsection.9.7.4}
+\contentsline {subsection}{\numberline {9.7.5}Short Period Mode}{30}{subsection.9.7.5}
+\contentsline {subsection}{\numberline {9.7.6}Conclusions from Aerodynamic Analysis}{30}{subsection.9.7.6}
+\contentsline {section}{\numberline {9.8}Structural Analysis}{31}{section.9.8}
+\contentsline {section}{\numberline {9.9}Objective Function}{31}{section.9.9}
+\contentsline {section}{\numberline {9.10}Modifications}{32}{section.9.10}
+\contentsline {chapter}{\numberline {10}Third Iteration}{33}{chapter.10}
+\contentsline {section}{\numberline {10.1}CAD Model}{33}{section.10.1}
+\contentsline {section}{\numberline {10.2}Weight Estimation}{35}{section.10.2}
+\contentsline {section}{\numberline {10.3}Engine Analysis}{35}{section.10.3}
+\contentsline {section}{\numberline {10.4}Point Performance}{36}{section.10.4}
+\contentsline {subsection}{\numberline {10.4.1}VTOF}{36}{subsection.10.4.1}
+\contentsline {subsection}{\numberline {10.4.2}Cruise}{36}{subsection.10.4.2}
+\contentsline {subsubsection}{Hover}{36}{section*.35}
+\contentsline {section}{\numberline {10.5}Aerodynamic Analysis}{37}{section.10.5}
+\contentsline {subsection}{\numberline {10.5.1}Change of Airfoil}{37}{subsection.10.5.1}
+\contentsline {subsection}{\numberline {10.5.2}Aerodynamic Plots}{37}{subsection.10.5.2}
+\contentsline {section}{\numberline {10.6}Trim Analysis}{38}{section.10.6}
+\contentsline {section}{\numberline {10.7}Stability Analysis}{39}{section.10.7}
+\contentsline {subsection}{\numberline {10.7.1}Roll Mode}{39}{subsection.10.7.1}
+\contentsline {subsection}{\numberline {10.7.2}Phugoid Mode}{40}{subsection.10.7.2}
+\contentsline {subsection}{\numberline {10.7.3}Dutch Roll Mode}{40}{subsection.10.7.3}
+\contentsline {subsection}{\numberline {10.7.4}Spiral Mode}{41}{subsection.10.7.4}
+\contentsline {subsection}{\numberline {10.7.5}Short Period Mode}{41}{subsection.10.7.5}
+\contentsline {section}{\numberline {10.8}Objective Function}{41}{section.10.8}
+\contentsline {chapter}{\numberline {11}Advantages and Limitations}{43}{chapter.11}
+\contentsline {chapter}{\numberline {12}Future Potential}{44}{chapter.12}
+\contentsline {chapter}{\numberline {13}Conclusion}{45}{chapter.13}
