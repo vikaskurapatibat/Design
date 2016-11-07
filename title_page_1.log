@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.2.11)  7 NOV 2016 01:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.2.11)  7 NOV 2016 01:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1320,10 +1320,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 763--776
 [31 <./iter2_mesh.png> <./iter2_tot_def.png> <./iter2_max_stress.png> <./iter2_
 max_strain.png>] [32]
 Chapter 10.
-<iter3-2.png, id=742, 1131.22626pt x 589.20125pt>
-File: iter3-2.png Graphic file (type png)
- <use iter3-2.png>
-Package pdftex.def Info: iter3-2.png used on input line 814.
+<iter3_new.png, id=742, 1131.22626pt x 589.20125pt>
+File: iter3_new.png Graphic file (type png)
+ <use iter3_new.png>
+Package pdftex.def Info: iter3_new.png used on input line 814.
 (pdftex.def)             Requested size: 390.0pt x 203.1308pt.
 
 <iter3.png, id=743, 1111.15125pt x 589.20125pt>
@@ -1338,7 +1338,7 @@ Overfull \hbox (155.99762pt too wide) in paragraph at lines 819--820
 
 [33
 
- <./iter3-2.png>] [34 <./iter3.png>]
+ <./iter3_new.png>] [34 <./iter3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 824--845
 
  []
@@ -1407,282 +1407,150 @@ Underfull \hbox (badness 10000) in paragraph at lines 916--919
  []
 
 [38 <./cl_vs_cd__2_.png> <./cm_alpha__2_.png> <./clcd_vs_alpha__2_.png> <./cl_v
-s_alpha__1_.png>]
-
-LaTeX Warning: File `v (1).png' not found on input line 941.
-
-<v (1).png, id=777, 1004.25188pt x 341.77687pt>
-File: v (1).png Graphic file (type png)
- <use v (1).png>
-Package pdftex.def Info: v (1).png used on input line 941.
+s_alpha__1_.png>] <v1.png, id=777, 1004.25188pt x 341.77687pt>
+File: v1.png Graphic file (type png)
+ <use v1.png>
+Package pdftex.def Info: v1.png used on input line 941.
 (pdftex.def)             Requested size: 187.19833pt x 63.70752pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 941--942
-[]\OT1/cmr/m/n/12 (1).png
- []
-
-<r (1).png, id=778, 1005.00468pt x 336.50719pt>
-File: r (1).png Graphic file (type png)
- <use r (1).png>
-Package pdftex.def Info: r (1).png used on input line 944.
+<r1.png, id=778, 1005.00468pt x 336.50719pt>
+File: r1.png Graphic file (type png)
+ <use r1.png>
+Package pdftex.def Info: r1.png used on input line 944.
 (pdftex.def)             Requested size: 187.19833pt x 62.67902pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 944--945
-[]\OT1/cmr/m/n/12 (1).png
- []
-
-
-LaTeX Warning: File `phi (1).png' not found on input line 948.
-
-<phi (1).png, id=779, 1011.02719pt x 338.76563pt>
-File: phi (1).png Graphic file (type png)
- <use phi (1).png>
-Package pdftex.def Info: phi (1).png used on input line 948.
+<phi1.png, id=779, 1011.02719pt x 338.76563pt>
+File: phi1.png Graphic file (type png)
+ <use phi1.png>
+Package pdftex.def Info: phi1.png used on input line 948.
 (pdftex.def)             Requested size: 187.19833pt x 62.72234pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 948--949
-[]\OT1/cmr/m/n/12 (1).png
- []
-
-
-LaTeX Warning: File `p (1).png' not found on input line 951.
-
-<p (1).png, id=780, 1005.7575pt x 338.01282pt>
-File: p (1).png Graphic file (type png)
- <use p (1).png>
-Package pdftex.def Info: p (1).png used on input line 951.
+<p1.png, id=780, 1005.7575pt x 338.01282pt>
+File: p1.png Graphic file (type png)
+ <use p1.png>
+Package pdftex.def Info: p1.png used on input line 951.
 (pdftex.def)             Requested size: 187.19833pt x 62.91306pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 951--952
-[]\OT1/cmr/m/n/12 (1).png
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 940--953
 []$[]$ $[]$
  []
 
-
-LaTeX Warning: File `w (1).png' not found on input line 958.
-
-<w (1).png, id=781, 1010.27437pt x 339.51843pt>
-File: w (1).png Graphic file (type png)
- <use w (1).png>
-Package pdftex.def Info: w (1).png used on input line 958.
+<w1.png, id=781, 1010.27437pt x 339.51843pt>
+File: w1.png Graphic file (type png)
+ <use w1.png>
+Package pdftex.def Info: w1.png used on input line 958.
 (pdftex.def)             Requested size: 187.19833pt x 62.90836pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 958--959
-[]\OT1/cmr/m/n/12 (1).png
- []
-
-
-LaTeX Warning: File `theta (1).png' not found on input line 961.
-
-<theta (1).png, id=782, 1005.7575pt x 338.76563pt>
-File: theta (1).png Graphic file (type png)
- <use theta (1).png>
-Package pdftex.def Info: theta (1).png used on input line 961.
+<theta1.png, id=782, 1005.7575pt x 338.76563pt>
+File: theta1.png Graphic file (type png)
+ <use theta1.png>
+Package pdftex.def Info: theta1.png used on input line 961.
 (pdftex.def)             Requested size: 187.19833pt x 63.05316pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 961--962
-[]\OT1/cmr/m/n/12 (1).png
- []
-
-
-LaTeX Warning: File `u (1).png' not found on input line 965.
-
-<u (1).png, id=783, 1008.01593pt x 335.75438pt>
-File: u (1).png Graphic file (type png)
- <use u (1).png>
-Package pdftex.def Info: u (1).png used on input line 965.
+<u1.png, id=783, 1008.01593pt x 335.75438pt>
+File: u1.png Graphic file (type png)
+ <use u1.png>
+Package pdftex.def Info: u1.png used on input line 965.
 (pdftex.def)             Requested size: 187.19833pt x 62.34924pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 965--966
-[]\OT1/cmr/m/n/12 (1).png
- []
-
-<q (1).png, id=784, 1007.26312pt x 336.50719pt>
-File: q (1).png Graphic file (type png)
- <use q (1).png>
-Package pdftex.def Info: q (1).png used on input line 968.
+<q1.png, id=784, 1007.26312pt x 336.50719pt>
+File: q1.png Graphic file (type png)
+ <use q1.png>
+Package pdftex.def Info: q1.png used on input line 968.
 (pdftex.def)             Requested size: 187.19833pt x 62.53525pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 968--969
-[]\OT1/cmr/m/n/12 (1).png
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 957--970
 []$[]$ $[]$
  []
 
-[39 <./v (1).png> <./r (1).png> <./phi (1).png> <./p (1).png>]
-<r (2).png, id=789, 1011.02719pt x 341.02406pt>
-File: r (2).png Graphic file (type png)
- <use r (2).png>
-Package pdftex.def Info: r (2).png used on input line 975.
+[39 <./v1.png> <./r1.png> <./phi1.png> <./p1.png>]
+<r2.png, id=789, 1011.02719pt x 341.02406pt>
+File: r2.png Graphic file (type png)
+ <use r2.png>
+Package pdftex.def Info: r2.png used on input line 975.
 (pdftex.def)             Requested size: 187.19833pt x 63.14049pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 975--976
-[]\OT1/cmr/m/n/12 (2).png
- []
-
-
-LaTeX Warning: File `phi (2).png' not found on input line 978.
-
-<phi (2).png, id=790, 1009.52156pt x 345.54094pt>
-File: phi (2).png Graphic file (type png)
- <use phi (2).png>
-Package pdftex.def Info: phi (2).png used on input line 978.
+<phi2.png, id=790, 1009.52156pt x 345.54094pt>
+File: phi2.png Graphic file (type png)
+ <use phi2.png>
+Package pdftex.def Info: phi2.png used on input line 978.
 (pdftex.def)             Requested size: 187.19833pt x 64.0717pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 978--979
-[]\OT1/cmr/m/n/12 (2).png
- []
-
-
-LaTeX Warning: File `v (2).png' not found on input line 982.
-
-<v (2).png, id=791, 1008.76875pt x 340.27126pt>
-File: v (2).png Graphic file (type png)
- <use v (2).png>
-Package pdftex.def Info: v (2).png used on input line 982.
+<v2.png, id=791, 1008.76875pt x 340.27126pt>
+File: v2.png Graphic file (type png)
+ <use v2.png>
+Package pdftex.def Info: v2.png used on input line 982.
 (pdftex.def)             Requested size: 187.19833pt x 63.1413pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 982--983
-[]\OT1/cmr/m/n/12 (2).png
- []
-
-
-LaTeX Warning: File `p (2).png' not found on input line 985.
-
-<p (2).png, id=792, 1009.52156pt x 341.77687pt>
-File: p (2).png Graphic file (type png)
- <use p (2).png>
-Package pdftex.def Info: p (2).png used on input line 985.
+<p2.png, id=792, 1009.52156pt x 341.77687pt>
+File: p2.png Graphic file (type png)
+ <use p2.png>
+Package pdftex.def Info: p2.png used on input line 985.
 (pdftex.def)             Requested size: 187.19833pt x 63.37375pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 985--986
-[]\OT1/cmr/m/n/12 (2).png
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 974--987
 []$[]$ $[]$
  []
 
-<r (3).png, id=793, 1007.26312pt x 341.02406pt>
-File: r (3).png Graphic file (type png)
- <use r (3).png>
-Package pdftex.def Info: r (3).png used on input line 992.
+<r3.png, id=793, 1007.26312pt x 341.02406pt>
+File: r3.png Graphic file (type png)
+ <use r3.png>
+Package pdftex.def Info: r3.png used on input line 992.
 (pdftex.def)             Requested size: 187.19833pt x 63.37465pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 992--993
-[]\OT1/cmr/m/n/12 (3).png
- []
-
-
-LaTeX Warning: File `v (3).png' not found on input line 995.
-
-<v (3).png, id=794, 1008.01593pt x 331.2375pt>
-File: v (3).png Graphic file (type png)
- <use v (3).png>
-Package pdftex.def Info: v (3).png used on input line 995.
+<v3.png, id=794, 1008.01593pt x 331.2375pt>
+File: v3.png Graphic file (type png)
+ <use v3.png>
+Package pdftex.def Info: v3.png used on input line 995.
 (pdftex.def)             Requested size: 187.19833pt x 61.51047pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 995--996
-[]\OT1/cmr/m/n/12 (3).png
- []
-
-
-LaTeX Warning: File `phi (3).png' not found on input line 999.
-
-<phi (3).png, id=795, 1004.25188pt x 344.03531pt>
-File: phi (3).png Graphic file (type png)
- <use phi (3).png>
-Package pdftex.def Info: phi (3).png used on input line 999.
+<phi3.png, id=795, 1004.25188pt x 344.03531pt>
+File: phi3.png Graphic file (type png)
+ <use phi3.png>
+Package pdftex.def Info: phi3.png used on input line 999.
 (pdftex.def)             Requested size: 187.19833pt x 64.1285pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 999--1000
-[]\OT1/cmr/m/n/12 (3).png
- []
-
-
-LaTeX Warning: File `p (3).png' not found on input line 1002.
-
-<p (3).png, id=796, 1005.7575pt x 338.76563pt>
-File: p (3).png Graphic file (type png)
- <use p (3).png>
-Package pdftex.def Info: p (3).png used on input line 1002.
+<p3.png, id=796, 1005.7575pt x 338.76563pt>
+File: p3.png Graphic file (type png)
+ <use p3.png>
+Package pdftex.def Info: p3.png used on input line 1002.
 (pdftex.def)             Requested size: 187.19833pt x 63.05316pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1002--1003
-[]\OT1/cmr/m/n/12 (3).png
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 991--1004
 []$[]$ $[]$
  []
 
-[40 <./w (1).png> <./theta (1).png> <./u (1).png> <./q (1).png> <./r (2).png> <
-./phi (2).png> <./v (2).png> <./p (2).png>]
-
-LaTeX Warning: File `w (2).png' not found on input line 1009.
-
-<w (2).png, id=801, 1006.51031pt x 340.27126pt>
-File: w (2).png Graphic file (type png)
- <use w (2).png>
-Package pdftex.def Info: w (2).png used on input line 1009.
+[40 <./w1.png> <./theta1.png> <./u1.png> <./q1.png> <./r2.png> <./phi2.png> <./
+v2.png> <./p2.png>] <w2.png, id=801, 1006.51031pt x 340.27126pt>
+File: w2.png Graphic file (type png)
+ <use w2.png>
+Package pdftex.def Info: w2.png used on input line 1009.
 (pdftex.def)             Requested size: 187.19833pt x 63.28668pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1009--1010
-[]\OT1/cmr/m/n/12 (2).png
- []
-
-
-LaTeX Warning: File `u (2).png' not found on input line 1012.
-
-<u (2).png, id=802, 1003.49907pt x 333.49594pt>
-File: u (2).png Graphic file (type png)
- <use u (2).png>
-Package pdftex.def Info: u (2).png used on input line 1012.
+<u2.png, id=802, 1003.49907pt x 333.49594pt>
+File: u2.png Graphic file (type png)
+ <use u2.png>
+Package pdftex.def Info: u2.png used on input line 1012.
 (pdftex.def)             Requested size: 187.19833pt x 62.20973pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1012--1013
-[]\OT1/cmr/m/n/12 (2).png
- []
-
-<q (2).png, id=803, 1011.02719pt x 343.2825pt>
-File: q (2).png Graphic file (type png)
- <use q (2).png>
-Package pdftex.def Info: q (2).png used on input line 1016.
+<q2.png, id=803, 1011.02719pt x 343.2825pt>
+File: q2.png Graphic file (type png)
+ <use q2.png>
+Package pdftex.def Info: q2.png used on input line 1016.
 (pdftex.def)             Requested size: 187.19833pt x 63.55864pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1016--1017
-[]\OT1/cmr/m/n/12 (2).png
- []
-
-
-LaTeX Warning: File `theta (2).png' not found on input line 1019.
-
-<theta (2).png, id=804, 1007.26312pt x 340.27126pt>
-File: theta (2).png Graphic file (type png)
- <use theta (2).png>
-Package pdftex.def Info: theta (2).png used on input line 1019.
+<theta2.png, id=804, 1007.26312pt x 340.27126pt>
+File: theta2.png Graphic file (type png)
+ <use theta2.png>
+Package pdftex.def Info: theta2.png used on input line 1019.
 (pdftex.def)             Requested size: 187.19833pt x 63.23476pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1019--1020
-[]\OT1/cmr/m/n/12 (2).png
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 1008--1021
 []$[]$ $[]$
  []
 
-[41 <./r (3).png> <./v (3).png> <./phi (3).png> <./p (3).png> <./w (2).png> <./
-u (2).png> <./q (2).png> <./theta (2).png>] [42]
+[41 <./r3.png> <./v3.png> <./phi3.png> <./p3.png> <./w2.png> <./u2.png> <./q2.p
+ng> <./theta2.png>] [42]
 Chapter 11.
 [43
 
@@ -1713,8 +1581,8 @@ Package rerunfilecheck Info: File `title_page_1.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1068.
  ) 
 Here is how much of TeX's memory you used:
- 19871 strings out of 495000
- 373805 string characters out of 6181169
+ 19891 strings out of 495000
+ 373629 string characters out of 6181169
  441563 words of memory out of 5000000
  22508 multiletter control sequences out of 15000+600000
  11733 words of font info for 42 fonts, out of 8000000 for 9000
@@ -1734,7 +1602,7 @@ y10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on title_page_1.pdf (54 pages, 1542237 bytes).
+Output written on title_page_1.pdf (54 pages, 1729003 bytes).
 PDF statistics:
  935 PDF objects out of 1000 (max. 8388607)
  762 compressed objects within 8 object streams
